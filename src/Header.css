@@ -1,0 +1,23 @@
+.bg-mybackground{
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.App img{
+    width: 70px;
+    height: 70px;
+    margin-left: 50px;
+}
+
+.App .link{
+    color: white;
+}
+
+.container a{
+    position: relative;
+    color:black ;
+    margin-left: 10px;
+}
